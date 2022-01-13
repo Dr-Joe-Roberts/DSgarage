@@ -82,7 +82,7 @@ To confirm these visual impressions, it would be useful to construct a table of 
 
 ```r
 
-if(!require("dplyr")) install.packages("dplyr")
+if(!require("dplyr")) install.packages("dplyr")  
 
 
 ## 
